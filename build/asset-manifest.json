@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bishwahangdewan/Weather-App/static/css/main.aa39cb2f.chunk.css",
+    "main.js": "/Bishwahangdewan/Weather-App/static/js/main.83d0e17e.chunk.js",
+    "main.js.map": "/Bishwahangdewan/Weather-App/static/js/main.83d0e17e.chunk.js.map",
+    "runtime-main.js": "/Bishwahangdewan/Weather-App/static/js/runtime-main.3eb1cdb3.js",
+    "runtime-main.js.map": "/Bishwahangdewan/Weather-App/static/js/runtime-main.3eb1cdb3.js.map",
+    "static/js/2.be2268c7.chunk.js": "/Bishwahangdewan/Weather-App/static/js/2.be2268c7.chunk.js",
+    "static/js/2.be2268c7.chunk.js.map": "/Bishwahangdewan/Weather-App/static/js/2.be2268c7.chunk.js.map",
+    "index.html": "/Bishwahangdewan/Weather-App/index.html",
+    "precache-manifest.9a088288b46d82b6e378467995aeed0d.js": "/Bishwahangdewan/Weather-App/precache-manifest.9a088288b46d82b6e378467995aeed0d.js",
+    "service-worker.js": "/Bishwahangdewan/Weather-App/service-worker.js",
+    "static/css/main.aa39cb2f.chunk.css.map": "/Bishwahangdewan/Weather-App/static/css/main.aa39cb2f.chunk.css.map",
+    "static/js/2.be2268c7.chunk.js.LICENSE.txt": "/Bishwahangdewan/Weather-App/static/js/2.be2268c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eb1cdb3.js",
+    "static/js/2.be2268c7.chunk.js",
+    "static/css/main.aa39cb2f.chunk.css",
+    "static/js/main.83d0e17e.chunk.js"
+  ]
+}
